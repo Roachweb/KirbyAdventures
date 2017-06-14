@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: 14bd8e18c637de64aba9d18e622dd5e0
+timeCreated: 1496606946
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NES - Kirbys Adventure - Game Over_0
+    21300002: continue
+    21300004: quit
+    21300006: NES - Kirbys Adventure - Game Over_3
+    21300008: NES - Kirbys Adventure - Game Over_4
+    21300010: NES - Kirbys Adventure - Game Over_5
+    21300012: NES - Kirbys Adventure - Game Over_6
+    21300014: NES - Kirbys Adventure - Game Over_7
+    21300016: NES - Kirbys Adventure - Game Over_8
+    21300018: NES - Kirbys Adventure - Game Over_9
+    21300020: NES - Kirbys Adventure - Game Over_10
+    21300022: NES - Kirbys Adventure - Game Over_11
+    21300024: NES - Kirbys Adventure - Game Over_12
+    21300026: NES - Kirbys Adventure - Game Over_13
+    21300028: NES - Kirbys Adventure - Game Over_14
+    21300030: NES - Kirbys Adventure - Game Over_15
+    21300032: NES - Kirbys Adventure - Game Over_16
+    21300034: NES - Kirbys Adventure - Game Over_17
+    21300036: NES - Kirbys Adventure - Game Over_18
+    21300038: NES - Kirbys Adventure - Game Over_19
+    21300040: NES - Kirbys Adventure - Game Over_20
+    21300042: NES - Kirbys Adventure - Game Over_21
+    21300044: NES - Kirbys Adventure - Game Over_22
+    21300046: NES - Kirbys Adventure - Game Over_23
+    21300048: NES - Kirbys Adventure - Game Over_24
+    21300050: NES - Kirbys Adventure - Game Over_25
+    21300052: NES - Kirbys Adventure - Game Over_26
+    21300054: NES - Kirbys Adventure - Game Over_27
+    21300056: NES - Kirbys Adventure - Game Over_28
+    21300058: NES - Kirbys Adventure - Game Over_29
+    21300060: NES - Kirbys Adventure - Game Over_30
+    21300062: NES - Kirbys Adventure - Game Over_31
+    21300064: NES - Kirbys Adventure - Game Over_32
+    21300066: NES - Kirbys Adventure - Game Over_33
+    21300068: NES - Kirbys Adventure - Game Over_34
+    21300070: NES - Kirbys Adventure - Game Over_35
+    21300072: NES - Kirbys Adventure - Game Over_36
+    21300074: NES - Kirbys Adventure - Game Over_37
+    21300076: NES - Kirbys Adventure - Game Over_38
+    21300078: NES - Kirbys Adventure - Game Over_39
+    21300080: NES - Kirbys Adventure - Game Over_40
+    21300082: NES - Kirbys Adventure - Game Over_41
+    21300084: NES - Kirbys Adventure - Game Over_42
+    21300086: NES - Kirbys Adventure - Game Over_43
+    21300088: NES - Kirbys Adventure - Game Over_44
+    21300090: NES - Kirbys Adventure - Game Over_45
+    21300092: NES - Kirbys Adventure - Game Over_46
+    21300094: NES - Kirbys Adventure - Game Over_47
+    21300096: NES - Kirbys Adventure - Game Over_48
+    21300098: NES - Kirbys Adventure - Game Over_49
+    21300100: NES - Kirbys Adventure - Game Over_50
+    21300102: NES - Kirbys Adventure - Game Over_51
+    21300104: NES - Kirbys Adventure - Game Over_52
+    21300106: NES - Kirbys Adventure - Game Over_53
+    21300108: NES - Kirbys Adventure - Game Over_54
+    21300110: NES - Kirbys Adventure - Game Over_55
+    21300112: NES - Kirbys Adventure - Game Over_56
+    21300114: NES - Kirbys Adventure - Game Over_57
+    21300116: NES - Kirbys Adventure - Game Over_58
+    21300118: NES - Kirbys Adventure - Game Over_59
+    21300120: NES - Kirbys Adventure - Game Over_60
+    21300122: NES - Kirbys Adventure - Game Over_61
+    21300124: NES - Kirbys Adventure - Game Over_62
+    21300126: NES - Kirbys Adventure - Game Over_63
+    21300128: NES - Kirbys Adventure - Game Over_64
+    21300130: NES - Kirbys Adventure - Game Over_65
+    21300132: NES - Kirbys Adventure - Game Over_66
+    21300134: NES - Kirbys Adventure - Game Over_67
+    21300136: NES - Kirbys Adventure - Game Over_68
+    21300138: NES - Kirbys Adventure - Game Over_69
+    21300140: NES - Kirbys Adventure - Game Over_70
+    21300142: NES - Kirbys Adventure - Game Over_71
+    21300144: NES - Kirbys Adventure - Game Over_72
+    21300146: NES - Kirbys Adventure - Game Over_73
+    21300148: NES - Kirbys Adventure - Game Over_74
+    21300150: NES - Kirbys Adventure - Game Over_75
+    21300152: NES - Kirbys Adventure - Game Over_76
+    21300154: NES - Kirbys Adventure - Game Over_77
+    21300156: NES - Kirbys Adventure - Game Over_78
+    21300158: NES - Kirbys Adventure - Game Over_79
+    21300160: NES - Kirbys Adventure - Game Over_80
+    21300162: NES - Kirbys Adventure - Game Over_81
+    21300164: NES - Kirbys Adventure - Game Over_82
+    21300166: NES - Kirbys Adventure - Game Over_83
+    21300168: NES - Kirbys Adventure - Game Over_84
+    21300170: NES - Kirbys Adventure - Game Over_85
+    21300172: NES - Kirbys Adventure - Game Over_86
+    21300174: NES - Kirbys Adventure - Game Over_87
+    21300176: NES - Kirbys Adventure - Game Over_88
+    21300178: NES - Kirbys Adventure - Game Over_89
+    21300180: NES - Kirbys Adventure - Game Over_90
+    21300182: NES - Kirbys Adventure - Game Over_91
+    21300184: NES - Kirbys Adventure - Game Over_92
+    21300186: NES - Kirbys Adventure - Game Over_93
+    21300188: NES - Kirbys Adventure - Game Over_94
+    21300190: NES - Kirbys Adventure - Game Over_95
+    21300192: NES - Kirbys Adventure - Game Over_96
+    21300194: NES - Kirbys Adventure - Game Over_97
+    21300196: NES - Kirbys Adventure - Game Over_98
+    21300198: NES - Kirbys Adventure - Game Over_99
+    21300200: NES - Kirbys Adventure - Game Over_100
+    21300202: NES - Kirbys Adventure - Game Over_101
+    21300204: NES - Kirbys Adventure - Game Over_102
+    21300206: NES - Kirbys Adventure - Game Over_103
+    21300208: NES - Kirbys Adventure - Game Over_104
+    21300210: NES - Kirbys Adventure - Game Over_105
+    21300212: NES - Kirbys Adventure - Game Over_106
+    21300214: NES - Kirbys Adventure - Game Over_107
+    21300216: NES - Kirbys Adventure - Game Over_108
+    21300218: NES - Kirbys Adventure - Game Over_109
+    21300220: NES - Kirbys Adventure - Game Over_110
+    21300222: NES - Kirbys Adventure - Game Over_111
+    21300224: NES - Kirbys Adventure - Game Over_112
+    21300226: NES - Kirbys Adventure - Game Over_113
+    21300228: NES - Kirbys Adventure - Game Over_114
+    21300230: NES - Kirbys Adventure - Game Over_115
+    21300232: GameOver
+    21300234: NES - Kirbys Adventure - Game Over_117
+    21300236: NES - Kirbys Adventure - Game Over_118
+    21300238: NES - Kirbys Adventure - Game Over_119
+    21300240: NES - Kirbys Adventure - Game Over_120
+    21300242: NES - Kirbys Adventure - Game Over_121
+    21300244: NES - Kirbys Adventure - Game Over_122
+    21300246: NES - Kirbys Adventure - Game Over_123
+    21300248: NES - Kirbys Adventure - Game Over_124
+    21300250: NES - Kirbys Adventure - Game Over_125
+    21300252: NES - Kirbys Adventure - Game Over_126
+    21300254: NES - Kirbys Adventure - Game Over_127
+    21300256: NES - Kirbys Adventure - Game Over_128
+    21300258: NES - Kirbys Adventure - Game Over_129
+    21300260: NES - Kirbys Adventure - Game Over_130
+    21300262: NES - Kirbys Adventure - Game Over_131
+    21300264: NES - Kirbys Adventure - Game Over_132
+    21300266: NES - Kirbys Adventure - Game Over_133
+    21300268: NES - Kirbys Adventure - Game Over_134
+    21300270: NES - Kirbys Adventure - Game Over_135
+    21300272: NES - Kirbys Adventure - Game Over_136
+    21300274: NES - Kirbys Adventure - Game Over_137
+    21300276: NES - Kirbys Adventure - Game Over_138
+    21300278: NES - Kirbys Adventure - Game Over_139
+    21300280: NES - Kirbys Adventure - Game Over_140
+    21300282: NES - Kirbys Adventure - Game Over_141
+    21300284: NES - Kirbys Adventure - Game Over_142
+    21300286: NES - Kirbys Adventure - Game Over_143
+    21300288: NES - Kirbys Adventure - Game Over_144
+    21300290: NES - Kirbys Adventure - Game Over_145
+    21300292: NES - Kirbys Adventure - Game Over_146
+    21300294: NES - Kirbys Adventure - Game Over_147
+    21300296: NES - Kirbys Adventure - Game Over_148
+    21300298: NES - Kirbys Adventure - Game Over_149
+    21300300: NES - Kirbys Adventure - Game Over_150
+    21300302: NES - Kirbys Adventure - Game Over_151
+    21300304: NES - Kirbys Adventure - Game Over_152
+    21300306: NES - Kirbys Adventure - Game Over_153
+    21300308: NES - Kirbys Adventure - Game Over_154
+    21300310: NES - Kirbys Adventure - Game Over_155
+    21300312: NES - Kirbys Adventure - Game Over_156
+    21300314: NES - Kirbys Adventure - Game Over_157
+    21300316: NES - Kirbys Adventure - Game Over_158
+    21300318: NES - Kirbys Adventure - Game Over_159
+    21300320: NES - Kirbys Adventure - Game Over_160
+    21300322: NES - Kirbys Adventure - Game Over_161
+    21300324: NES - Kirbys Adventure - Game Over_162
+    21300326: NES - Kirbys Adventure - Game Over_163
+    21300328: NES - Kirbys Adventure - Game Over_164
+    21300330: NES - Kirbys Adventure - Game Over_165
+    21300332: NES - Kirbys Adventure - Game Over_166
+    21300334: NES - Kirbys Adventure - Game Over_167
+    21300336: NES - Kirbys Adventure - Game Over_168
+    21300338: NES - Kirbys Adventure - Game Over_169
+    21300340: NES - Kirbys Adventure - Game Over_170
+    21300342: NES - Kirbys Adventure - Game Over_171
+    21300344: NES - Kirbys Adventure - Game Over_172
+    21300346: NES - Kirbys Adventure - Game Over_173
+    21300348: NES - Kirbys Adventure - Game Over_174
+    21300350: NES - Kirbys Adventure - Game Over_175
+    21300352: NES - Kirbys Adventure - Game Over_176
+    21300354: NES - Kirbys Adventure - Game Over_177
+    21300356: NES - Kirbys Adventure - Game Over_178
+    21300358: NES - Kirbys Adventure - Game Over_179
+    21300360: NES - Kirbys Adventure - Game Over_180
+    21300362: NES - Kirbys Adventure - Game Over_181
+    21300364: NES - Kirbys Adventure - Game Over_182
+    21300366: NES - Kirbys Adventure - Game Over_1
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Game Over_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 271
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Game Over_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 429
+        width: 89
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: quit
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 355
+        width: 61
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

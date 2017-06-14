@@ -1,0 +1,734 @@
+fileFormatVersion: 2
+guid: 4ec8cf1d9b51709448456c1b3efd3353
+timeCreated: 1492549259
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: YogurtYard6_0
+    21300002: YogurtYard6_1
+    21300004: YogurtYard6_2
+    21300006: YogurtYard6_3
+    21300008: YogurtYard6_4
+    21300010: YogurtYard6_5
+    21300012: YogurtYard6_6
+    21300014: YogurtYard6_7
+    21300016: YogurtYard6_8
+    21300018: YogurtYard6_9
+    21300020: YogurtYard6_10
+    21300022: YogurtYard6_11
+    21300024: YogurtYard6_12
+    21300026: YogurtYard6_13
+    21300028: YogurtYard6_14
+    21300030: YogurtYard6_15
+    21300032: YogurtYard6_16
+    21300034: YogurtYard6_17
+    21300036: YogurtYard6_18
+    21300038: YogurtYard6_19
+    21300040: YogurtYard6_20
+    21300042: YogurtYard6_21
+    21300044: YogurtYard6_22
+    21300046: YogurtYard6_23
+    21300048: YogurtYard6_24
+    21300050: YogurtYard6_25
+    21300052: YogurtYard6_26
+    21300054: YogurtYard6_27
+    21300056: YogurtYard6_28
+    21300058: YogurtYard6_29
+    21300060: YogurtYard6_30
+    21300062: YogurtYard6_31
+    21300064: YogurtYard6_32
+    21300066: YogurtYard6_33
+    21300068: YogurtYard6_34
+    21300070: YogurtYard6_35
+    21300072: YogurtYard6_36
+    21300074: YogurtYard6_37
+    21300076: YogurtYard6_38
+    21300078: YogurtYard6_39
+    21300080: YogurtYard6_40
+    21300082: YogurtYard6_41
+    21300084: YogurtYard6_42
+    21300086: YogurtYard6_43
+    21300088: YogurtYard6_44
+    21300090: YogurtYard6_45
+    21300092: YogurtYard6_46
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YogurtYard6_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 692
+        width: 1272
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 520
+        width: 1272
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 348
+        width: 1272
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 176
+        width: 1272
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 248
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 4
+        width: 248
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_6
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 3
+        width: 248
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_7
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_8
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_9
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 150
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_10
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 150
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_11
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 150
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_12
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 150
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_13
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 150
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_14
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 140
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_15
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 140
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_16
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 140
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_17
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 140
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_18
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 140
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_19
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_20
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_21
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 130
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_22
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 130
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_23
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 130
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_24
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 130
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_25
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 130
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_26
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_27
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_28
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 120
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_29
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_30
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_31
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_32
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_33
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 110
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_34
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 110
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_35
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 110
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_36
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_37
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_38
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 100
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_39
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 100
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_40
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 100
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_41
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 90
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_42
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 90
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_43
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 90
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_44
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 80
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_45
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 80
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: YogurtYard6_46
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 80
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
